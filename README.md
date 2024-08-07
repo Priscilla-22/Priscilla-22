@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack software developer from Kenya</h3>
 
 <div align="center">
-  <img width="100%" height="400" src="https://ik.imagekit.io/zckfsnnti/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png?updatedAt=1723010829373" />
+  <img width="100%" height="500" src="https://ik.imagekit.io/zckfsnnti/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner%20(1).png?updatedAt=1723012820544" />
 </div>
 
 ###
