@@ -20,6 +20,14 @@
 </div>
 
 ###
+<h3 align="left">About Me:</h3>
+<hr style="border: none; border-top: 1px solid #ccc;">
+<p align="left">
+    I'm Priscilla Muthoni Wakahia, a dedicated full-stack software developer with a strong passion for building impactful web applications. My background in software engineering, mathematics, and computer science equips me with a solid foundation to tackle complex problems and deliver innovative solutions. I specialize in creating efficient, user-friendly solutions that meet real-world needs. I thrive on exploring new technologies and methodologies, continuously enhancing my expertise to deliver the best results. Whether working on a solo project or collaborating with a team, my goal is to craft seamless and engaging digital experiences.
+
+</p>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -79,6 +87,10 @@
   </a>
 </p>
 
+###
+
+<h3 align="left"> Github Stats:</h3>
+<hr style="border: none; border-top: 1px solid #ccc;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priscilla-22&show_icons=true&locale=en&layout=compact&theme=dark" alt="priscilla-22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priscilla-22&show_icons=true&locale=en&theme=dark" alt="priscilla-22" /></p>
