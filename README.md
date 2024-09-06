@@ -92,9 +92,9 @@
 
 <h3 align="left"> Github Stats:</h3>
 <hr style="border: none; border-top: 1px solid #ccc;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priscilla-22&show_icons=true&locale=en&layout=compact&theme=dark" alt="priscilla-22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priscilla-22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Priscilla-22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priscilla-22&show_icons=true&locale=en&theme=dark" alt="priscilla-22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priscilla-22&show_icons=true&locale=en&theme=dark" alt="Priscilla-22" /></p>
 
 
 
@@ -103,7 +103,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ <img src="https://streak-stats.demolab.com?user=priscilla-22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
